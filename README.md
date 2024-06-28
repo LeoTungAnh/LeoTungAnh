@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeoTungAnh
+- 👋 Hi, I’m a ML researcher at University of Sydney, Australia.
 - 👀 I’m interested in Machine Learning, Blockchain and Convex Optimization
 - 🌱 I’m currently researching Federated Learning and LLM
 - 💞️ I’m looking to collaborate on Federated Learning and Networking
