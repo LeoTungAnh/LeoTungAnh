@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a PhD  at University of Sydney, Australia.
-- 👀 I’m interested in Machine Learning, Blockchain and Convex Optimization
-- 🌱 I’m currently researching Federated Learning and LLM
-- 💞️ I’m looking to collaborate on Federated Learning and Networking
+- 👀 I’m interested in Machine Learning, Blockchain and Convex Optimization.
+- 🌱 I’m currently researching Federated Learning, LLM and TinyML to make ML become feasible for devices with limited resources.
+- 💞️ I’m looking to collaborate on Federated Learning, Networking and TinyML.
 - 📫 How to reach me: tung6100@uni.sydney.edu.au or tunganhbgbk@gmail.com
 
 <!---
